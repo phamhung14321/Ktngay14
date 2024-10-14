@@ -1,0 +1,15 @@
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\bin\Debug\De01.exe.config
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\bin\Debug\De01.exe
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\bin\Debug\De01.pdb
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\bin\Debug\EntityFramework.dll
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\bin\Debug\EntityFramework.xml
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\obj\Debug\De01.csproj.AssemblyReference.cache
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\obj\Debug\De01.frmSinhVien.resources
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\obj\Debug\De01.Properties.Resources.resources
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\obj\Debug\De01.csproj.GenerateResource.cache
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\obj\Debug\De01.csproj.CoreCompileInputs.cache
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\obj\Debug\De01.csproj.Up2Date
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\obj\Debug\De01.exe
+C:\Users\manhh\source\repos\PhamManhHung_2280618866\De01\obj\Debug\De01.pdb
